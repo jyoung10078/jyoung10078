@@ -14,7 +14,8 @@ Welcome to my GitHub! I'm a **AI/ML software engineer**, and **tech enthusiast**
 
 ## 🌎 Let's Connect:
 - 🐦 **Twitter/X:** [@young_j9844](https://twitter.com/young_j9844)  
-- 💼 **LinkedIn:** [Jared Young](https://www.linkedin.com/in/jared-young-5b4b3318b/)  
+- 💼 **LinkedIn:** [Jared Young](https://www.linkedin.com/in/jared-young-5b4b3318b/)
+- 💻 **Website:** youngjared.com
 - ✉️ **Email:** your.email@example.com  
 
 Thanks for stopping by! Feel free to check out my projects and contribute. 😃🚀
