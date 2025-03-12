@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Jared.
 
-Welcome to my GitHub! I'm a **software engineer**, and **tech enthusiast** who loves solving problems with **code & AI**. 🚀  
+Welcome to my GitHub! I'm a **data scientist**, and **tech enthusiast** who loves solving problems with **code & AI**. 🚀  
 
 ## 💡 What I Do:
 - 🔬 **Machine Learning & NLP** – Building smart applications with AI  
