@@ -14,7 +14,7 @@
 ##
 
 ## Welcome to my GitHub! 
-- I'm a **data scientist**, and **tech enthusiast** who loves building cool stuff with AI. 🚀 
+- I'm a **data scientist**, and **tech enthusiast** who loves building cool stuff with AI. Currently based out of Huntsville, Alabama. 🚀 
 
 ## 💡 What I Do:
 - 🔬 **Machine Learning & NLP** – Building smart applications with AI  
