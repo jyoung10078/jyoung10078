@@ -18,7 +18,7 @@
 
 ## 💡 What I Do:
 - 🔬 **Machine Learning & NLP** – Building smart applications with AI  
-- 💻 **Full-Stack Development** – React ⚛️, Flask 🐍, AWS ☁️  
+- 💻 **Full-Stack Development** – Next ▲, React ⚛️, Flask 🐍, AWS ☁️  
 - 📊 **Data Science & Analytics** – Turning data into insights 📈  
 
 ## 🌎 Let's Connect:
